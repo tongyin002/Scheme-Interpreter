@@ -7,7 +7,7 @@ You can learn more about the programming language Scheme in the wikipedia:  http
 Some of the examples of using the terminal to write mini functions/programs in Scheme are shown below. The language is interpreted
 and processed by python.
 
-<img src="screenshots/scm1.jpg">
-<img src="screenshots/scm2.jpg">
-<img src="screenshots/scm3.jpg">
-<img src="screenshots/scm4.jpg">
+<img src="screenshots/scm1.jpeg">
+<img src="screenshots/scm2.jpeg">
+<img src="screenshots/scm3.jpeg">
+<img src="screenshots/scm4.jpeg">
